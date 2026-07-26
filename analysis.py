@@ -1,4 +1,6 @@
-# Анализ данных микро-бизнеса
+# Анализ данных аренды в Pandas
+# Группирую по месяцам, считаю средний чек, рисую график
+# Данные из csv-файла transactions.csv
 import pandas as pd
 import matplotlib.pyplot as plt
 
