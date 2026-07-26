@@ -1,2 +1,12 @@
-# micro-business-analysis
-Анализ данных микро-бизнеса на Python (Pandas)
+# Анализ данных микро-бизнеса на Python
+
+Проект по анализу данных аренды игровых консолей с помощью Pandas и Matplotlib.
+
+## Стек
+- Python 3, Pandas, NumPy, Matplotlib
+- Jupyter Notebook
+
+## Что сделано
+- Когортный анализ клиентов (Retention)
+- Расчёт среднего чека и LTV
+- Визуализация выручки по месяцам
